@@ -10,5 +10,4 @@
 
 
 
-☘️ my blog: <a href="https://yongchin.xyz" target="_blank">yongchin's blog</a>  👾 discard: <a href="https://discord.gg/xYNEjpy8Mq" target="_blank">yongchin's blog</a>
-☘️ my blog: [《yongchin's blog》](https://yongchin.xyz)  👾 discard: [server](https://discord.gg/xYNEjpy8Mq)
+☘️ my blog: <a href="https://yongchin.xyz" target="_blank">yongchin's blog</a> 👾 discard: <a href="https://discord.gg/xYNEjpy8Mq" target="_blank">server</a>
