@@ -1,5 +1,5 @@
 <br/>
-<h5 align="center">Greetings</h5>
+<p align="center">Greetings</p>
 <b align="center">Traveller from beyond the Fog</b>
 <p align="center"> I am @yongchin <code>/jʌŋtʃɪn/</code>, a GPT-4 Oriented programmer</p>
 <p align="center">😊 I am interested in games and otaku culture</p>
